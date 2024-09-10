@@ -1,6 +1,9 @@
 # BMI Calculator App
 Before running the app, make sure your system is up to date, you have the latest version of Python installed, and that you have the Trebuchet MS font installed.
 
+# Credits
+App Icon by YankeeSoft
+
 # How to Run
 
 ## Windows
